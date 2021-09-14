@@ -1,0 +1,1 @@
+/book/:publisher_name/publications
